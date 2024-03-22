@@ -1,0 +1,117 @@
+{
+    "title": "Herrera Samuel Andres",
+    "description": "Web design and programming student",
+    "image": "perfil.jpg",
+    "avatar": "perfil.jpg",
+    "name": "Samuel Herrera",
+    "skill": "Student",
+    "location": "Argentina, Santa Cruz Rio Gallegos",
+    "media": {
+        "email": "Hsamuel638@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/Samu-Andres",
+        "likedin": "https://www.linkedin.com/in/samuel-a-herrera/"
+    },
+    "about": "Hello, I'm Samuel Andrés Herrera, I'm 24 years old, and I'm from Río Gallegos, Santa Cruz, Argentina. Currently, I'm studying Web Design and Programming at Da Vinci University, the first Multimedia Art School. My primary interest lies in Front-end development, although I'm also proficient in Back-end. My goal is to become a Full Stack Web Developer in the future.",
+    "technologies": [
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Coming soon",
+            "subtitle": "Coming soon",
+            "description": "Coming soon",
+            "date": "Coming soon"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "rabbit",
+            "title": "Pokedex",
+            "subtitle": "Pokemon information",
+            "description": "Pokedex with HTML, CSS and JavaScript",
+            "technologies": [
+            {
+                "icon": "devicon-html5-plain",
+                "name": "HTML"
+            },
+            {
+                "icon": "devicon-css3-plain",
+                "name": "CSS"
+            },
+            {
+                "icon": "devicon-javascript-plain",
+                "name": "JavaScript"
+            }
+            ],
+            "image": "pokedex.jpg",
+            "url": "https://google.com",
+            "github": "https://github.com/Samu-Andres/Pokedex.git"
+        },
+        {
+            "icon": "calculator",
+            "title": "Function Calculator",
+            "subtitle": "Calculator",
+            "description": "Function Calculator with HTML, CSS and JavaScript",
+            "technologies": [
+            {
+                "icon": "devicon-html5-plain",
+                "name": "HTML"
+            },
+            {
+                "icon": "devicon-css3-plain",
+                "name": "CSS"
+            },
+            {
+                "icon": "devicon-javascript-plain",
+                "name": "JavaScript"
+            }
+            ],
+            "image": "calculator.jpg",
+            "url": "https://google.com",
+            "github": "https://github.com/Samu-Andres/Calculadora-Funcional"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Universidad Da Vinci | Primera Escuela de Arte Multimedial",
+            "subtitle": "Diseño y programación web",
+            "description": "Html, Css, JavaScript, Vue js, Tailwind y diseño web",
+            "date": "2022 - Present",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Una ambiciosa Introduccion a Python",
+            "subtitle": "Parte 1",
+            "description": "Primeros Pasos en Python 3.x. El lenguaje ideal para estar en todos lados: robótica, big data, estadísticas y data science, visualización, procesamiento científico, automatización de procesos, desarrollo web, streaming, Scripting, videjuegos, inteligencia artificial",
+            "date": "2023",
+            "certificate": "https://drive.google.com/file/d/1nQShMdkPgtsaV3b0vlqVQ_T4ITNyeuCE/view?usp=sharing"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/clima.jpg",
+            "title": "Weather Technical Interview",
+            "description": "Weather Technical Interview with HTML, CSS and JavaScript",
+            "url": ""
+        }
+    ]
+}
