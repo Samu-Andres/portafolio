@@ -4,7 +4,9 @@
 
 <br>
 
+
 Desarrollado utilizando [Python](https://python.org) y [Reflex](https://reflex.dev), disponible para desplegar de forma estática (HTML, CSS, JS).
+<p>Inspired by Mouredev's Project</p>
 
 <br>
 
