@@ -42,7 +42,7 @@
     ],
     "projects": [
         {
-            "icon": "rabbit",
+            "icon": "terminal",
             "title": "Pokedex",
             "subtitle": "Pokemon information",
             "description": "Pokedex with HTML, CSS and JavaScript",
