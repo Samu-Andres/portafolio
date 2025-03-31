@@ -11,13 +11,14 @@ def tech_stack(technologies: list[Technology]) -> rx.Component:
             *[
                 rx.badge(
                     rx.box(
-                        class_name=technology.icon,
+                        # Asegura que es string
+                        class_name=str(technology.icon),
                         font_size="24px"
                     ),
-                    rx.text(technology.name),
+                    rx.text(str(technology.name)),  # Asegura que es string
                     size="2"
                 )
-                for technology in technologies
+                for technology in technologies if isinstance(technology, Technology)
             ],
             wrap="wrap",
             spacing=Size.SMALL.value
